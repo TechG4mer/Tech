@@ -12,4 +12,4 @@
 <p><a href="https://streamlabs.com/tech_g4mer">Help Keep Site Up!</a></p>
 <marquee>E is Best</marquee>
 
-<p><a href="https://e.techg4mer.com">Join E</a></p>
+<p><a href="https://e.techg4mer.com">About E</a></p>
