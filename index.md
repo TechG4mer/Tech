@@ -9,7 +9,8 @@
 <p><a href="https://discord.gg/97C2v9rNVt">Discord Support Server</a></p>
 <p><a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">YouTube!</a></p>
 <p><a href="https://github.com/TechG4mer">GitHub</a></p>
-<p><a href="https://streamlabs.com/tech_g4mer">Help Keep Site Up!</a></p>
+<p><a href="https://streamlabs.com/tech_g4mer">Click To Donate
+  !Help Keep Site Up!</a></p>
 <marquee>E is Best</marquee>
 
 <p><a href="https://e.techg4mer.com">About E</a></p>
