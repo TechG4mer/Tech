@@ -12,7 +12,21 @@
 <p><a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">YouTube!</a></p>
 <p><a href="https://github.com/TechG4mer">GitHub</a></p>
 <p><a href="https://streamlabs.com/tech_g4mer">Click To Donate To Help Keep The Site Up!</a></p>
-<p>ㅤ</p>
+
 <marquee>E is Best</marquee>
-<p>ㅤ</p>
+
 <p><a href="https://e.techg4mer.com">About E</a></p>
+
+<p>ㅤ</p>
+<p>ㅤ</p>
+
+<p>Some Random Text</p>
+<p>Some More Random Text</p>
+<p> Text</p>
+
+<p>ㅤ</p>
+
+<p><a href="https://twitch.tv/tech_g4mer">Watch Me Live On Twitch!</a></p>
+<p>(if i am even live)</p>
+
+<p>ㅤ</p>
