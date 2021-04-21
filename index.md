@@ -7,6 +7,9 @@
 <meta name="theme-color" content="#0004ff">
 
 
+
+
+
 <h1>Welcome To techg4mer.com</h1>
 <p><a href="https://discord.gg/97C2v9rNVt">Discord Support Server</a></p>
 <p><a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">YouTube!</a></p>
@@ -30,3 +33,17 @@
 <p>(if i am even live)</p>
 
 <p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p><a href="https://discord.gg/97C2v9rNVt">Suggets Ideas In Support Server!</a></p>
