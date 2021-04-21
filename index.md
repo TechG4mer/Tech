@@ -11,10 +11,10 @@
 
 
 <h1>Welcome To techg4mer.com</h1>
-<p><a href="https://discord.gg/97C2v9rNVt">Discord Support Server</a></p>
-<p><a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">YouTube!</a></p>
+<p>Join The <a href="https://discord.gg/97C2v9rNVt">Discord Support Server</a> For Support And Updates That The Site Gets</p>
+<p>Subscribe to me on <a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">YouTube</a>!</p>
 <p><a href="https://github.com/TechG4mer">GitHub</a></p>
-<p><a href="https://streamlabs.com/tech_g4mer">Click To Donate To Help Keep The Site Up!</a></p>
+<p>Click Here To <a href="https://streamlabs.com/tech_g4mer">Donate</a> To Help Keep The Site Up!</p>
 
 <marquee>E is Best</marquee>
 
@@ -29,7 +29,7 @@
 
 <p>ㅤ</p>
 
-<p><a href="https://twitch.tv/tech_g4mer">Watch Me Live On Twitch!</a></p>
+<p>Watch Me Live On <a href="https://twitch.tv/tech_g4mer">Twitch</a>!</p>
 <p>(if i am even live)</p>
 
 <p>ㅤ</p>
@@ -46,4 +46,4 @@
 <p>ㅤ</p>
 <p>ㅤ</p>
 <p>ㅤ</p>
-<p><a href="https://discord.gg/97C2v9rNVt">Suggets Ideas In Support Server!</a></p>
+<p>Join My Main <a href="https://discord.gg/bVH2kUEfnv">Discord</a> Server!</p>
