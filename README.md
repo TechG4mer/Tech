@@ -1,4 +1,4 @@
 # Tech
-dashboard
+site
 yes
 # very site
