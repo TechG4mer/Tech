@@ -47,3 +47,12 @@
 <p>ㅤ</p>
 <p>ㅤ</p>
 <p>Join My Main <a href="https://discord.gg/bVH2kUEfnv">Discord</a> Server!</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p><a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">ㅤYoutubeㅤ</a><a href="https://github.com/TechG4mer">ㅤGithubㅤ</a><a href="https://twitch.tv/tech_g4mer">ㅤTwitchㅤ</a><a href="https://twitter.com/tech_g4mer">ㅤTwitterㅤ</a></p>
+
+
+
+
