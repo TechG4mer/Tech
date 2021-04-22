@@ -51,7 +51,7 @@
 <p>ㅤ</p>
 <p>ㅤ</p>
 <p>ㅤ</p>
-<p>ㅤ<a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">Youtube</a>ㅤㅤㅤㅤㅤ<a href="https://twitch.tv/tech_g4mer">Twitch</a>ㅤㅤㅤㅤㅤ<a href="https://github.com/TechG4mer">Github</a>ㅤㅤㅤㅤㅤ<a href="https://twitter.com/tech_g4mer">Twitter</a>ㅤㅤ<img src="favicon-32x32.png" alt="Test">ㅤㅤ<a href="https://www.facebook.com/Tech-Gang-102858845215452">Facebook</a>ㅤㅤㅤㅤㅤ<a href="https://www.reddit.com/user/TechGamer_YT">Reddit</a>ㅤㅤㅤㅤㅤ<a href="techg4mer.com">Coming Soon</a>ㅤㅤㅤㅤㅤ<a href="techg4mer.com">Coming Soon</a>ㅤㅤㅤㅤㅤ</p>
+<p>ㅤ<a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">Youtube</a>ㅤㅤㅤㅤ<a href="https://twitch.tv/tech_g4mer">Twitch</a>ㅤㅤㅤㅤ<a href="https://github.com/TechG4mer">Github</a>ㅤㅤㅤㅤ<a href="https://twitter.com/tech_g4mer">Twitter</a>ㅤㅤ<img src="favicon-32x32.png" alt="Test">ㅤㅤ<a href="https://www.facebook.com/Tech-Gang-102858845215452">Facebook</a>ㅤㅤㅤㅤ<a href="https://www.reddit.com/user/TechGamer_YT">Reddit</a>ㅤㅤㅤㅤ<a href="techg4mer.com">Coming Soon</a>ㅤㅤㅤㅤ<a href="techg4mer.com">Coming Soon</a>ㅤㅤㅤㅤ</p>
 
 
 
