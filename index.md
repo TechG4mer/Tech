@@ -51,7 +51,7 @@
 <p>ㅤ</p>
 <p>ㅤ</p>
 <p>ㅤ</p>
-<p>ㅤ<a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">Youtube</a>ㅤㅤㅤㅤㅤ<a href="https://twitch.tv/tech_g4mer">Twitch</a>ㅤㅤㅤㅤㅤ<a href="https://github.com/TechG4mer">Github</a>ㅤㅤㅤㅤㅤ<a href="https://twitter.com/tech_g4mer">Twitter</a>ㅤㅤㅤㅤㅤ</p>
+<p>ㅤ<a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">Youtube</a>ㅤㅤㅤㅤㅤ<a href="https://twitch.tv/tech_g4mer">Twitch</a>ㅤㅤㅤㅤㅤ<a href="https://github.com/TechG4mer">Github</a>ㅤㅤㅤㅤㅤ<a href="https://twitter.com/tech_g4mer">Twitter</a>ㅤㅤ<img src="favicon-16x16.png" alt="Test"></p>
 
 
 
