@@ -33,7 +33,7 @@
 <p>(if i am even live)</p>
 
 <p>ㅤ</p>
-<p>Other Sites</p>
+<p style="text-decoration:underline;">Other Servers</p>
 <p>ㅤ</p>
 <p><a href="http://minigames.techg4mer.com/">MiniGames</a></p>
 <p><a href="https://e.techg4mer.com">E Site</a></p>
