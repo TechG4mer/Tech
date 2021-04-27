@@ -37,8 +37,7 @@
 <p>ㅤ</p>
 <p><a href="http://minigames.techg4mer.com/">MiniGames</a></p>
 <p><a href="https://e.techg4mer.com">E Site</a></p>
-<p>ㅤ</p>
-<p>ㅤ</p>
+<p>Update <a href="https://twitch.tv/tech_g4mer">Logs</a></p>
 <p>ㅤ</p>
 <p>ㅤ</p>
 <p>ㅤ</p>
