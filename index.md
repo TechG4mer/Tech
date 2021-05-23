@@ -20,35 +20,35 @@
 
 <p><a href="https://e.techg4mer.com">About E</a></p>
 
-<p>ㅤ</p>
-<p>ㅤ</p>
+<br>
+<br>
 
 <p>Some Random Text</p>
 <p>Some More Random Text</p>
 <p> Text</p>
 
-<p>ㅤ</p>
+<br>
 
 <p>Watch Me Live On <a href="https://twitch.tv/tech_g4mer">Twitch</a>!</p>
 <p>(if i am even live)</p>
 
-<p>ㅤ</p>
+<br>
 <p style="text-decoration:underline;">Other Servers</p>
-<p>ㅤ</p>
+<br>ㅤ</p>
 <p><a href="https://minigames.techg4mer.com/">MiniGames</a></p>
 <p><a href="https://e.techg4mer.com">E Site</a></p>
 <p>Update <a href="https://sitechangelogs.techg4mer.com">Logs</a></p>
-<p>ㅤ</p>
-<p>ㅤ</p>
-<p>ㅤ</p>
-<p>ㅤ</p>
-<p>ㅤ</p>
-<p>ㅤ</p>
-<p>ㅤ</p>
-<p>ㅤ</p>
-<p>ㅤ</p>
-<p>ㅤ</p>
-<p>ㅤ</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p>ㅤㅤ<a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">Youtube</a>ㅤㅤㅤ<a href="https://twitch.tv/tech_g4mer">Twitch</a>ㅤㅤㅤ<a href="https://github.com/TechG4mer">Github</a>ㅤㅤㅤ<a href="https://twitter.com/tech_g4mer">Twitter</a>ㅤㅤ<img src="favicon-32x32.png" alt="Test">ㅤㅤ<a href="https://www.facebook.com/Tech-Gang-102858845215452">Facebook</a>ㅤㅤㅤ<a href="https://www.reddit.com/user/TechGamer_YT">Reddit</a>ㅤㅤㅤ<a href="https://discord.gg/Xsw8qQUHYG">Discord Main</a>ㅤㅤㅤ<a href="https://discord.gg/97C2v9rNVt">Discord Support</a>ㅤㅤㅤ</p>
 
 
