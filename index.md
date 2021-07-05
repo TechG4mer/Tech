@@ -13,7 +13,7 @@
 <h1>Welcome To techg4mer.com</h1>
 <p>Join The <a href="https://discord.gg/97C2v9rNVt">Discord Support Server</a> For Support And Updates On The Site</p>
 <p>Subscribe to me on <a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">YouTube</a>!</p>
-<p>My <a href="https://github.com/TechG4mer">GitHub</a> Pgae!</p>
+<p>My <a href="https://github.com/TechG4mer">GitHub</a> Page!</p>
 <p>Click Here To <a href="https://streamlabs.com/tech_g4mer">Donate</a> To Help Keep The Site Up!</p>
 
 <marquee>E is Best</marquee>
