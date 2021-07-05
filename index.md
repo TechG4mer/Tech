@@ -34,7 +34,7 @@
 
 <br>
 <p style="text-decoration:underline;">Other Servers</p>
-<br>ㅤ</p>
+<br>
 <p><a href="https://minigames.techg4mer.com/">MiniGames</a></p>
 <p><a href="https://e.techg4mer.com">E Site</a></p>
 <p>Update <a href="https://sitechangelogs.techg4mer.com">Logs</a></p>
